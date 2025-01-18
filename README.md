@@ -19,6 +19,7 @@ No, this meter is missing many major parts, the main one being calibrated accura
 * ESP32 Wroom-32
 * MS5611 (GY-63) Barometer
 * SSD1306 oled screen
+* Prototyping board
 * Wires
 
 ## Cost
@@ -27,7 +28,8 @@ All parts ordered from aliexpress:
 * MS5611 - 4.72€
 * SSD1306 - 2.91€
 * Wires - 1.39€
-* **TOTAL - 13.46€**
+* Prototyping board - 2.02€
+* **TOTAL - 15.48€**
 
 ##
 Feel free to contribute to the code if you feel you can improve it.
