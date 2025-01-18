@@ -16,7 +16,7 @@ No, this meter is missing many major parts, the main one being calibrated accura
 - [ ] Computer and phone connectivity
 
 ## Parts list
-* ESP32 Wroom-32
+* ESP32 WROOM-32 38 pin
 * MS5611 (GY-63) Barometer
 * SSD1306 oled screen
 * Prototyping board
